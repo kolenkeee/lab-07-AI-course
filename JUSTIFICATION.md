@@ -1,6 +1,6 @@
 # JUSTIFICATION — which route, and why
 
-All numbers below come from my own run of `lab07_three_routes.ipynb` in Google Colab (they are also in
+All numbers below come from my own run of `lab07_Kaden.ipynb` (the template `lab07_three_routes.ipynb`, renamed) in Google Colab (they are also in
 `results.json`). Unless I say otherwise: γ = 0.95, the scoring rule `score_policy` (exact expected
 discounted return from 5 units in stock, endless shop), the same ten seeds 0–9, Q-learning with the
 default step size `alpha / (1 + n / 50)`, α = 0.5, ε = 0.2 (I did not change them), 100,000 days for
